@@ -1,0 +1,5 @@
+BibliotecadigitalApplication.class
+com\biblioteca\bibliotecadigital\controller\LivroController.class
+com\biblioteca\bibliotecadigital\repository\LivroRepository.class
+com\biblioteca\bibliotecadigital\service\LivroService.class
+com\biblioteca\bibliotecadigital\entity\Livro.class
